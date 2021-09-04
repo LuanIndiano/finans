@@ -1,3 +1,3 @@
 # finans
 Site Desenvolvido para trabalhar os caracteristicas de um design responsivo
-<img src="capa-inicial.jpg">
+<img src="capa-incial.png">
